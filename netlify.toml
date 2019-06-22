@@ -6,4 +6,5 @@
   # A basic redirect rule
   [[redirects]]
     from = "/*"
-    to = "/index"
+    to = "/index.html"
+    status = 200
