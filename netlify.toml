@@ -1,0 +1,9 @@
+[build]
+
+  base = "demo/"
+  publish = "demo/build/"
+
+  # A basic redirect rule
+  [[redirects]]
+    from = "/*"
+    to = "/build/index.html"
