@@ -8,7 +8,7 @@ function App(){
     return ( <div className="App">
         <header className="App-header">
             <h1>Index</h1>
-            <Route path={ "other" } component={ Other }/>
+            <Route path={ "/other" } component={ Other }/>
         </header>
     </div> );
 }
