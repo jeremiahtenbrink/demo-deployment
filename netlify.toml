@@ -15,4 +15,3 @@
     from = "/*"
     to = "/index.html"
     # must add the status code so that redirects will work.
-    status = 200
